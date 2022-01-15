@@ -4,7 +4,7 @@ int b = 34; // This is a global variable since it is declared inside main()
 
 int ret()
 {
-    return 43*3;
+    return 43 * 3;
 }
 
 int func1(int b1)
